@@ -136,3 +136,7 @@ body {
   font-size: 30px;
 }
 
+.media-player{
+	width 320px;
+	margin: 0 auto;
+}
