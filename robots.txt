@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+sitemap: https://1night2day.netlify.app/sitemap.xlm
