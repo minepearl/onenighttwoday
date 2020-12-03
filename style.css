@@ -137,9 +137,14 @@ body {
 }
 
 .media-player{
-	width 320px;
+	width:320px;
 	margin: 0 auto;
 }
 .asdf{
 	text-align:center;
+}
+
+.ad-banner{
+	width:320px;
+	margin: 0 auto;
 }
